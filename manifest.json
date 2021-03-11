@@ -1,4 +1,4 @@
 [
-    { "name": "SomePackage", "Latest": "1.0.0" },
-    { "name": "SomeOtherPackage", "Latest": "1.0.0" }
+    { "Name": "SomePackage", "Latest": "1.0.0" },
+    { "Name": "SomeOtherPackage", "Latest": "1.0.0" }
 ]
